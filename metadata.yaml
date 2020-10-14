@@ -1,5 +1,8 @@
 _repo: Ireland-in-Travail_63334
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63334-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Loch, Sydney
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52381
     wikipedia: https://en.wikipedia.org/wiki/Joice_NanKivell_Loch
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63334#Ireland-in-Travail
 gutenberg_issued: '2020-09-29'
 gutenberg_type: Text
 identifiers:

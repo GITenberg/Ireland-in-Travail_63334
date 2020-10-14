@@ -1,0 +1,40 @@
+_repo: Ireland-in-Travail_63334
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Loch, Sydney
+    aliases:
+    - De Loghe, Sydney
+    - Loghe, Sydney de
+    - Loch, Frederick Sydney
+    birthdate: 1889
+    deathdate: 1954
+    gutenberg_agent_id: '51169'
+    url: http://www.gutenberg.org/2009/agents/51169
+  - agent_name: Loch, Joice NanKivell
+    aliases:
+    - Loch, J. M. (Joice Mary)
+    - Loch, Joice Mary Nankivell
+    - Nankivell, Joice M. (Joice Mary)
+    birthdate: 1893
+    deathdate: 1982
+    gutenberg_agent_id: '52381'
+    url: http://www.gutenberg.org/2009/agents/52381
+    wikipedia: https://en.wikipedia.org/wiki/Joice_NanKivell_Loch
+description: ''
+gutenberg_issued: '2020-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63334'
+  lccn: '22020134'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sinn Fein'
+- !lcsh 'Ireland -- History -- 1910-1921'
+- !lcc 'DA'
+- GITenberg
+title: Ireland in Travail
+url: http://www.gutenberg.org/ebooks/63334
